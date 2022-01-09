@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div>
- <img src="https://i.pinimg.com/originals/65/ad/eb/65adeb701226688e88e1543cdaec1a48.jpg">
+ <img src="https://i.pinimg.com/originals/65/ad/eb/65adeb701226688e88e1543cdaec1a48.jpg" width="60px">
 </div>
 <div> 
   <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
