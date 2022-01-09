@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá! seja bem vindo ao meu GitHub 👋
 <div>
  <img src="https://i.pinimg.com/originals/65/ad/eb/65adeb701226688e88e1543cdaec1a48.jpg" width="70" height="70">
 </div>
